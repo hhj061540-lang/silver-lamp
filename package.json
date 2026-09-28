@@ -1,0 +1,29 @@
+{
+  "name": "vpn-sdk",
+  "version": "1.0.0",
+  "description": "VPN Gateway Manager SDK for easy API integration",
+  "main": "lib/vpn-sdk.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhj061540-lang/silver-lamp.git"
+  },
+  "keywords": [
+    "vpn",
+    "sdk",
+    "vpn-gateway",
+    "api",
+    "vpn-manager"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhj061540-lang/silver-lamp/issues"
+  },
+  "homepage": "https://github.com/hhj061540-lang/silver-lamp#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
